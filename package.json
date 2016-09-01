@@ -1,0 +1,31 @@
+{
+  "name": "node-mw-api-prodest",
+  "version": "1.2.1",
+  "description": "Tratamentos genéricos utilizados pelas APIs - CORS, autenticação e tratamento de erros",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "compression": "^1.6.2",
+    "cors": "^2.8.0",
+    "eslint-config-prodest": "^1.0.12",
+    "jwt-simple": "^0.5.0",
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1",
+    "uuid": "^2.0.2"
+  },
+  "devDependencies": {
+    "eslint-config-prodest": "^1.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prodest/node-mw-api-prodest.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prodest/node-mw-api-prodest/issues"
+  },
+  "homepage": "https://github.com/prodest/node-mw-api-prodest#readme"
+}
