@@ -1,6 +1,6 @@
 {
   "name": "node-mw-api-prodest",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "Tratamentos genéricos utilizados pelas APIs - CORS, autenticação e tratamento de erros",
   "main": "./lib/index.js",
   "dependencies": {
